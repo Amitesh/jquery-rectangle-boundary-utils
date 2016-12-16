@@ -3,11 +3,11 @@ A small plugin to test the boundary between the source and target elements
 
 ## Methods
 
-- isInside() return boolean
-- isColliding() return boolean
-- isContaining() return boolean
-- union() return {top, left, width, height}
-- intersect() return {top, left, width, height}
+- **isInside()** returns boolean
+- **isColliding()** returns boolean
+- **isContaining()** returns boolean
+- **union()** returns {top, left, width, height}
+- **intersect()** returns {top, left, width, height}
 
 ## Examples
 
